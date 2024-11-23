@@ -13,10 +13,9 @@
 ```
 
 ### Environments
-`.env` 파일 수정
+`.env` 파일 생성
 ```
-NAVER_CLIENT_ID=""
-NAVER_CLIENT_SECRET=""
+> cp .env.template .env
 ```
 
 ### Execution
